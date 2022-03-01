@@ -18,3 +18,7 @@ def hello_world2(getal):
 @app.route("/vierde")
 def hello_world3():
     return heleanderemethode()
+
+@app.route("/vijfde")
+def hello_world4():
+    return heleanderemethode()
