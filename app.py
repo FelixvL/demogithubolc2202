@@ -15,6 +15,6 @@ def hello_world2(getal):
     var2 = var1 * var1
     return "<p>Dit is een hele "+str(var2)+" andere functie</p>"
 
-@app.route("/derde")
+@app.route("/vierde")
 def hello_world3():
     return heleanderemethode()
